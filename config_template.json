@@ -1,0 +1,6 @@
+{
+    "discord_token": "paste token here",
+    "reddit_client_id": "paste id here",
+    "reddit_client_secret": "paste secret here",
+    "reddit_user_agent": "paste user agent here"
+}
