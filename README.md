@@ -4,6 +4,12 @@
 
 ## Setup
 
+Get Setup with the [Discord API here](discord.md)
+
+Get Setup with the [Reddit API here](reddit.md)
+
+## Development
+
 ```bash
 $ python3 -m venv .venv
 $ source .venv/bin/activate
