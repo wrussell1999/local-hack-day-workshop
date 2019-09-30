@@ -6,7 +6,7 @@ import random
 from io import BytesIO
 from . import config
 
-bot = commands.Bot(command_prefix='!')
+bot = commands.Bot(command_prefix='?')
 reddit = praw.Reddit(client_id=config.creds['reddit_client_id'],
                      client_secret=config.creds['reddit_client_secret'],
                      user_agent=config.creds['reddit_user_agent'])
