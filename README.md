@@ -1,6 +1,7 @@
 # Reddit Scraping Discord Bot Workshop
 
-[Local Hack Day - Learn workshop at the University of Birmingham](https://localhackday.mlh.io/learn/locations/1859) run by Will Russell.
+![(https://localhackday.mlh.io/learn/locations/1859)](/images/lhd_logo.png)
+[Local Hack Day - Learn](https://localhackday.mlh.io/learn/locations/1859) workshop at the University of Birmingham run by Will Russell.
 
 ## Setup
 
