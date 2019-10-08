@@ -3,6 +3,8 @@
 # Reddit Scraping Discord Bot Workshop
 [Local Hack Day - Learn](https://localhackday.mlh.io/learn/locations/1859) workshop at the University of Birmingham run by Will Russell.
 
+The presentation can be found [here](https://docs.google.com/presentation/d/1Dpa35En2z70bxEA0AQd0QHqfcTFVvOtqDp2O27mCJeo/edit?usp=sharing).
+
 ## Setup
 
 Get Setup with the [Discord API here](discord.md)
