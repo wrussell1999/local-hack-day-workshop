@@ -17,4 +17,4 @@ def deepfry(image):
     image = Image.blend(image, r, 0.75)
     image = ImageEnhance.Sharpness(image).enhance(0.0)
     
-    image.save("deepfry.png")
+    return image

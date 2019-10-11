@@ -20,7 +20,7 @@ async def picture(ctx):
     image = reddit.get_subreddit_image(theme)
         
     if len(args) >= 3 and args[2] == 'deepfry':
-        deepfry.deepfry(image)
+        deepfry.deepfry(image).save("deepfry.png")
         await ctx.send(file=discord.File('deepfry.png'))
     else:
         await ctx.send(file=discord.File(image, 'image.png'))
