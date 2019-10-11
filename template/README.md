@@ -154,3 +154,5 @@ async def picture(ctx):
     else:
         await ctx.send(file=discord.File(image, 'image.png'))
 ```
+
+14. Now go and add your own commands to your new bot!

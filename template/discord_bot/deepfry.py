@@ -1,0 +1,2 @@
+def deepfry(image):
+    pass
