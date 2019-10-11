@@ -1,6 +1,4 @@
 import praw
-from discord.ext.commands.errors import CommandInvokeError
-from discord.ext import commands
 import requests
 from io import BytesIO
 from . import config

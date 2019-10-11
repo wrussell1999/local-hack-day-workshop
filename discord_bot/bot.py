@@ -13,7 +13,7 @@ def main():
 async def on_ready():
     print('Ready!')
 
-@bot.command(description="Post a picture from a subreddit")
+@bot.command(description="Post a picture from a subreddit, Add deepfry as a 2nd argument for a filter.")
 async def picture(ctx):
     args = ctx.message.clean_content.split(' ') 
     theme = args[1]
