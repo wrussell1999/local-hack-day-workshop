@@ -24,3 +24,7 @@ $ pip install -r requirements.txt
 ```bash
 (.venv) $ python -m discord_bot
 ```
+
+## Credit
+
+The deepfry functionality was used from [deeppyer](https://github.com/Ovyerus/deeppyer). Some adjustments were made for maximum edge.
