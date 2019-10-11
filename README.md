@@ -9,6 +9,7 @@ The following libraries were used:
 - [discord.py](https://discordpy.readthedocs.io/en/latest/)
 - [PRAW](https://praw.readthedocs.io/en/latest/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
+- [requests](https://realpython.com/python-requests/)
 
 ## Setup
 
